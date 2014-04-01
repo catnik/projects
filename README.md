@@ -64,6 +64,7 @@ Currently there is no standard way to access these documents.
 This product would be especially powerful at the hyper-local level where finding filing documents for municipal seats can be a deterrent for non-political insiders.
 
 __What we’re doing:__ using the voter registry to define district boundaries
+
 __What we need:__ designers, front-end developers, volunteers to manually search for filing documents (no standard database)
 
 ####3.  Roadmap to Starting a Civic Data Project
@@ -71,6 +72,7 @@ __What we need:__ designers, front-end developers, volunteers to manually search
 A lot of us have great ideas that others of us would be excited to help make.  Let’s make a visual guide to help innovators get started on the path to action… and reach the end goal.
 
 __What we’re doing:__  Brainstorming
+
 __What we need:__  Artists, designers, makers, innovators
 
 ####4. Hack PAC: The first platform for truly crowd-funded campaigns
