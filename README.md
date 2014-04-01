@@ -1,9 +1,9 @@
-###$ Community Design Challenge
-##Project Proposals and Team Recruitment
+# Community Design Challenge
+## Project Proposals and Team Recruitment
 
-# 1. Going Deeper: “Behind the Curtain” on Campaign Finance
+#### 1. Going Deeper: “Behind the Curtain” on Campaign Finance
 
-# Big Picture Team
+#### Big Picture Team
 
 What we’re doing: Our workshop at PNCA produced a beta version of Hack Oregon’s  “Behind the Curtain” project, which enables users to generate their own visualizations to understand and share what’s going on with campaign money in Oregon.
 
@@ -11,7 +11,7 @@ What we need: backend (making end-points), front-end (working on advanced filter
 
 We’ve started with 4 basic types of visualizations, each treated as separate teams.
 
-# WHO TEAM
+#### WHO TEAM
 
 What we’re doing: Building visualizations to show “who” is giving and receiving money in politics.  We can show broad categories (Corporate, Individual, Union, Non-profit, Other) and define and reveal “top” contributors and recipients.
 
@@ -22,7 +22,7 @@ What we need: The challenge is to filter detail into a visualization, while keep
 data visualization, designers, front end developers, politicos, activists, UX
 
 
-# WHEN TEAM
+#### WHEN TEAM
 
 What we’re doing: Time series visualizations.  Most of the visualization on the “Behind the Curtain” project need to be filtered by time, but there are conditions under which time itself is a primary factor of interest.  We have a visual timeline “slider” that allows a user to filter any visualization by time, or animate over a period of time.
 
@@ -31,7 +31,7 @@ What we need: Help overlaying a time series visualization into our slider.  We w
 Javascript, d3, politicos and activists
 
 
-# WHERE TEAM
+#### WHERE TEAM
 
 What we’re doing: generating heat maps to show where campaign donations are coming from and where the money ends up (after being spent or being transferred to another campaign).
 
@@ -42,7 +42,7 @@ What we need: We want to better represent what it looks like when money becomes 
 
 We need people who love maps and care about keeping it local!
 
-# WHAT TEAM
+#### WHAT TEAM
 
 What we’re doing: d3 visualization to show what campaigns are spending money on (in broad categories included in the data)
 
@@ -52,7 +52,7 @@ There also a challenge because much of the data we have, is “unknown”.  We c
 
 The more politicos to decode mystery the better! Front-end help with advanced filter and presentation options.
 
-# 2. Find my Legislator.  Be my Legislator.
+#### 2. Find my Legislator.  Be my Legislator.
 
 Inspired by the open source project whatsmydistrict.org.  ...with a twist.
 
@@ -65,7 +65,7 @@ This product would be especially powerful at the hyper-local level where finding
 What we’re doing: using the voter registry to define district boundaries
 What we need: designers, front-end developers, volunteers to manually search for filing documents (no standard database)
 
-# 3. Hack PAC: The first platform for truly crowd-funded campaigns
+#### 3. Hack PAC: The first platform for truly crowd-funded campaigns
 
 Hack Oregon launched Hack PAC as a way to build a bridge from our “Behind the Curtain” campaign finance project to grassroots activism and civic engagement.
 
@@ -77,7 +77,7 @@ What we need: Hack PAC will have an interface which can accept compliant campaig
 
 
 
-# 4. Roadmap to Starting a Civic Data Project
+#### 4. Roadmap to Starting a Civic Data Project
 
 A lot of us have great ideas that others of us would be excited to help make.  Let’s make a visual guide to help innovators get started on the path to action… and reach the end goal.
 
